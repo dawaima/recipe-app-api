@@ -105,3 +105,5 @@ venv.bak/
 
 .pylintrc
 .vscode/
+Pipfile
+Pipfile.lock
